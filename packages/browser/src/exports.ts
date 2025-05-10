@@ -61,6 +61,7 @@ export {
   spanToTraceHeader,
   spanToBaggageHeader,
   updateSpanName,
+  makeMultiplexedTransport,
 } from '@sentry/core';
 
 export {
